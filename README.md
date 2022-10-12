@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=**'http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />![Audio Clip](https://user-images.githubusercontent.com/81199017/195219426-d8b66e90-4bf3-4e36-99b3-4f1209b1dcfc.gif)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />![Audio Clip](https://user-images.githubusercontent.com/81199017/195219426-d8b66e90-4bf3-4e36-99b3-4f1209b1dcfc.gif)
 **
 
